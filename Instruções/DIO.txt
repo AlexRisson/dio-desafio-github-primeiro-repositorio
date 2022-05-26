@@ -10,6 +10,16 @@ Comandos terminal (CMD)
 -mkdir (criar)
 -del / rmdir (deletar)
 
+Git/GitHub
+
+cd (para buscar o arquivo)
+git add . (adicionar todos os arquivos que estão na pasta)
+git status (verificar se todos os arquivos estão adicionados)
+git commit -m ""(commitar os arquivos sendo(-m) para por uma mensagem)
+git push origin main (passar do servidor local para o remoto)
+git pull (passar do servidor remoto para o local)
+git clone (clonar)
+
 
 
 
