@@ -1,0 +1,16 @@
+Primeiro módulo.
+
+"gets" é implementada dentro do sistema para ler as entradas (inputs) dos dados
+"print" imprime a saída (output) de dados e já pula uma linha ("\n")
+
+Comandos terminal (CMD)
+
+-cd (mudar)
+-dir (listar)
+-mkdir (criar)
+-del / rmdir (deletar)
+
+
+
+
+
